@@ -11,8 +11,6 @@
 
 ## Technologies
 - [HTML5](#html5) 
-            <i class="devicon-html5-plain-wordmark"></i>
-          
 - [CSS](#css)
 - [Git](#git)
 - [GitHub](#github)
@@ -22,5 +20,6 @@
 - Yaroslav Chemekow 87602
 - Serhii Konovalenko 88094
 - Maksym Bondar 87468
+
 
 
