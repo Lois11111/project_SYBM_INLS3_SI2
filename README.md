@@ -16,7 +16,8 @@
 - [GitHub](#github)
 
 ## Authors
-- [Bohdan Fomin 83044]
-- [Yaroslav Chemekow 87602]
-- [Serhii Konovalenko 88094]
-- [Maksym Bondar 87468]
+- Bohdan Fomin 83044
+- Yaroslav Chemekow 87602
+- Serhii Konovalenko 88094
+- Maksym Bondar 87468
+
